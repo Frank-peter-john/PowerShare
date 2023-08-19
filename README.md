@@ -30,16 +30,24 @@ Registration screen
 
 
 
+
 Welcome screen
 
 ![Screenshot 2023-08-19 at 2 26 02 PM](https://github.com/Frank-peter-john/PowerShare/assets/95868790/a79fe21e-f228-4406-b435-7be16c660d96)
+
+
+
+
 
 Join your apartment screen 
 ![Screenshot 2023-08-19 at 2 28 18 PM](https://github.com/Frank-peter-john/PowerShare/assets/95868790/63604797-9f89-425f-9a11-caedb5e9ffde)
 
 
+
+
 My Appliances screen 
 ![Screenshot 2023-08-19 at 2 35 03 PM](https://github.com/Frank-peter-john/PowerShare/assets/95868790/997d2e42-bd68-4d76-bc91-5b1aa909b14d)
+
 
 
 
@@ -53,6 +61,7 @@ Inbox screen
 ![Screenshot 2023-08-19 at 2 38 18 PM](https://github.com/Frank-peter-john/PowerShare/assets/95868790/978264db-51df-4df5-af4d-14421f4bb465)
 
 ![Screenshot 2023-08-19 at 2 38 34 PM](https://github.com/Frank-peter-john/PowerShare/assets/95868790/a8209446-4aac-4749-97f8-1452e5c6a5d7)
+
 
 
 
