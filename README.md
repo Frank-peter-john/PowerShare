@@ -2,7 +2,7 @@
 
 This app solves a electricity-meter sharing problem in Tanzania. It helps tenants to know how many units each person is using and how much they should be paying. It Tracks electricity usage for each Tenant.
 
-## PowerSharing soluition
+## PowerSharing solution
 
 Tenant's Home page
 
